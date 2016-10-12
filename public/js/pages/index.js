@@ -405,12 +405,13 @@ var AlwaysOnTopManagerView = Backbone.View.extend({
     },
     adjust: function() {
         var that = this;
+
         _.each(that.objects, function(object,i){
             TweenLite.to(
               $('#' + object.id),
               object.always_on_top.duration,
               {
-                left: (that.parent.scaleFactor * object.location.left) + that.el.scrollX,
+                left: (that.parent.scaleFactor * object.location.left) + that.el.pageXOffset,
                 ease: Elastic.easeOut.config(0.8, 0.3),
                 delay: Math.random() * 0.15
               }
@@ -535,7 +536,7 @@ var PopupBannerView = Backbone.View.extend({
           that.popup_el,
           1,
           {
-            left: window.scrollX,
+            left: window.pageXOffset,
             top: (( that.jQpopup.parent().height() - that.jQpopup.height()) / 2),
             width: that.parent.w.width(),
             ease: Power2.easeOut
@@ -595,7 +596,7 @@ var PopupSlideshowView = Backbone.View.extend({
     },
     render: function() {
         var that = this;
-        
+
         that.jQpopup.show();
         that.jQpopup.find('.popup-slideshow-slide').hide();
         $('#' + that.object.popup_slideshow.popup_slideshow_id + that.currentIndex).show();
@@ -620,7 +621,7 @@ var PopupSlideshowView = Backbone.View.extend({
           that.popup_el,
           1,
           {
-            left: window.scrollX,
+            left: window.pageXOffset,
             top: 0,
             width: that.parent.scaleFactor * 1920,
             height: that.parent.scaleFactor * 1080,

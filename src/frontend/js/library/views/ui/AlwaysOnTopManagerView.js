@@ -12,12 +12,13 @@ var AlwaysOnTopManagerView = Backbone.View.extend({
     },
     adjust: function() {
         var that = this;
+
         _.each(that.objects, function(object,i){
             TweenLite.to(
               $('#' + object.id),
               object.always_on_top.duration,
               {
-                left: (that.parent.scaleFactor * object.location.left) + that.el.scrollX,
+                left: (that.parent.scaleFactor * object.location.left) + that.el.pageXOffset,
                 ease: Elastic.easeOut.config(0.8, 0.3),
                 delay: Math.random() * 0.15
               }

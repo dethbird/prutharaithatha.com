@@ -33,7 +33,7 @@ var PopupBannerView = Backbone.View.extend({
           that.popup_el,
           1,
           {
-            left: window.scrollX,
+            left: window.pageXOffset,
             top: (( that.jQpopup.parent().height() - that.jQpopup.height()) / 2),
             width: that.parent.w.width(),
             ease: Power2.easeOut
