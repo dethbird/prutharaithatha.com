@@ -127,7 +127,29 @@ img.hotspot {
 .hidden {
   display: none;
 }
-@media screen and (max-width: 800px) {
+.thumbnail_collection {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.thumbnail_container {
+    margin-bottom: 15px;
+}
+.thumbnail_image {
+    float: left;
+    margin-right: 5px;
+    border-radius: 10px;
+    border: 2px solid black;
+
+}
+
+.thumbnail_title {
+    font-weight: bold;
+}
+
+@media screen and (max-width: 700px) {
     body {
         /*background-color: lightgreen;*/
     }
@@ -143,5 +165,8 @@ img.hotspot {
     }
     h1 {
       font-size: 1.8rem;
+    }
+    .thumbnail_title {
+        font-size: 12px;
     }
 }

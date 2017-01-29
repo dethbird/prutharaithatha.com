@@ -136,6 +136,23 @@ var HorizontalPanelView = Backbone.View.extend({
 
         });
 
+        _.each($(that.el).find('.thumbnail_image'), function(e, i){
+            e = $(e);
+            if (e.hasClass('popup-slideshow-trigger')) {
+                const slideshowId = e.data('popup-slideshow-id');
+                // console.log(slideshowId);
+                // console.log(e.attr('id'));
+                const popupSlideshowView = new PopupSlideshowView({
+                    el: '#' + e.attr('id'),
+                    popup_el: '#' + slideshowId,
+                    object: null,
+                    popup_details: _.findWhere(that.layout.popup_slideshow, {'id': slideshowId}),
+                    parent: that
+                });
+                // console.log(popupSlideshowView);
+            }
+        });
+
         // rescale on window resize
         that.w.resize(_.bind($.debounce(250, that.resize), that));
         that.resize();
@@ -154,9 +171,12 @@ var HorizontalPanelView = Backbone.View.extend({
               var object = _.findWhere(that.layout.text, {'id': e.attr('id')});
           } else if (e.hasClass('sprite')) {
               var object = _.findWhere(that.layout.sprite, {'id': e.attr('id')});
+          } else if (e.hasClass('thumbnail_collection')) {
+              var object = _.findWhere(that.layout.thumbnail_collections, {'id': e.attr('id')});
           } else {
               var object = _.findWhere(that.layout.objects, {'id': e.attr('id')});
           }
+
           if (object) {
             e.css({
               width: that.scaleFactor * object.dimensions.width,
@@ -165,6 +185,14 @@ var HorizontalPanelView = Backbone.View.extend({
               left: that.scaleFactor * object.location.left
             });
           }
+      });
+
+      _.each($(that.el).find('.thumbnail_image'), function(e, i){
+          e = $(e);
+          e.css({
+             width: that.scaleFactor * e.data('width'),
+             height: that.scaleFactor * e.data('height')
+          });
       });
 
       // vertically center the container

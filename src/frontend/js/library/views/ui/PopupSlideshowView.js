@@ -49,7 +49,8 @@ var PopupSlideshowView = Backbone.View.extend({
 
         that.jQpopup.show();
         that.jQpopup.find('.popup-slideshow-slide').hide();
-        $('#' + that.object.popup_slideshow.popup_slideshow_id + that.currentIndex).show();
+        // console.log(that.popup_el);
+        $(that.popup_el + that.currentIndex).show();
         _.each(that.jQpopup.find('.popup-slideshow-image'), function(e){
           e = $(e);
           e.css({
