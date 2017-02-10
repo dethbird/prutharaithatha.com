@@ -627,8 +627,8 @@ objects:
     id: "header_portfolio"
     image_url: "/img/header_projects.png"
     location:
-      top: 247
-      left: 4624
+      top: 275
+      left: 4590
     dimensions:
       width: 132
       height: 29
@@ -970,464 +970,375 @@ popup_banner:
           </ul>
         </div>
 popup_slideshow:
-  -
-    id: popup_slideshow_unilever
-    title: "Unilever"
-    image_dimensions:
-        max_height: 920
-    slides:
-        -
-          image_url: "/img/projects/unilever/cover.jpg"
-          caption: |
+    -
+      id: popup_slideshow_bustle_2
+      title: "Bustle 2"
+      image_dimensions:
+          max_height: 920
+      slides:
+          -
+            image_url: "/img/projects/bustle_2/1.jpg"
+            caption: |
+              Townhall / Pantry Area
+          -
+            image_url: "/img/projects/bustle_2/2.jpg"
+            caption: |
+              Infinity Room inspired Welcome Zone
+          -
+            image_url: "/img/projects/bustle_2/3.jpg"
+            caption: |
+              Open Office Area
+          -
+            image_url: "/img/projects/bustle_2/4.jpg"
+            caption: |
+              Townhall / Pantry Area
 
-        -
-          image_url: "/img/projects/unilever/1.Loung Seating in Cafe with Touch Screen Coffee Tables.jpg"
-          caption: |
-            Lounge Seating in Cafe with Touch Screen Coffee Tables
-        -
-          image_url: "/img/projects/unilever/2. Reception Desk.jpg"
-          caption: |
-            Reception Desk
-        -
-          image_url: "/img/projects/unilever/3. Site Sketch for Reception Desk Power and Data .jpg"
-          caption: |
-            Site Sketch for Reception Desk power and data integration
-        -
-          image_url: "/img/projects/unilever/4. Waiting Area.jpg"
-          caption: |
-            Waiting Area
-        -
-          image_url: "/img/projects/unilever/5.jpg"
-          caption: |
-            Signage
-        -
-          markup: |
-            <iframe src="https://www.youtube.com/embed/yYeXPATWRtc" frameborder="0" allowfullscreen></iframe>
-          caption: |
-            The Tunnel is the experiential portal into the entire space.
-            Set up as a white box art gallery to receive new art from
-             time to time. The tunnel has ceiling mounted projectors,
-            color changing lights, scent dispensers installed within
-            the air supply system and provision for future smoke
-            machines. Employees are treated to some inspiration
-            before commencing work everyday as they walk through
-             this tunnel to get to their work stations.
-        -
-          image_url: "/img/projects/unilever/tunnel_concept.jpg"
-          caption: |
-            Tunnel design concept sketch by me
-        -
-          image_url: "/img/projects/unilever/7. Cafe with custom millwork and food carts.jpg"
-          caption: |
-            Cafe with custom millwork and food carts
-        -
-          image_url: "/img/projects/unilever/9_ Stair design Process .jpg"
-          caption: |
-        -
-          image_url: "/img/projects/unilever/8.Internal Stair between two floors.jpg"
-          caption: |
-             Internal Stair between two floors
-        -
-          image_url: "/img/projects/unilever/9. Site before commencement of any work.jpg"
-          caption: |
-             Site before commencement of work
-        -
-          image_url: "/img/projects/unilever/10. Slab cutout to receive new internal stair.jpg"
-          caption: |
-             Slab cutout to receive new internal stair
-        -
-          image_url: "/img/projects/unilever/11. Men of steel installing the stair structure.jpg"
-          caption: |
-             Men of steel installing the stair structure
-        -
-          image_url: "/img/projects/unilever/12. Final Stair with digital screen art at Mid-landing.jpg"
-          caption: |
-             Final Stair with digital screen art at mid-landing
-        -
-          image_url: "/img/projects/unilever/12.5. Cafe space with a large moveable Video wall on Barn Door Hardware and steel framework.jpg"
-          caption: |
-             Cafe space with a large moveable Video wall on Barn Door Hardware and steel framework
-        -
-          image_url: "/img/projects/unilever/13. Material selection excersise with the client.jpg"
-          caption: |
-             Material selection exercise with the client
-        -
-          image_url: "/img/projects/unilever/14. Best assistant ever.jpg"
-          caption: |
-             Best assistant ever!
-        -
-          image_url: "/img/projects/unilever/15.Site Learnings.jpg"
-          caption: |
-             Site Learnings.
-        -
-          image_url: "/img/projects/unilever/16.jpg"
-          caption: |
+    -
+      id: popup_slideshow_bustle1
+      title: "Bustle 1"
+      image_dimensions:
+          max_height: 920
+      slides:
+          -
+            image_url: "/img/projects/bustle_1/1.jpg"
+            caption: |
+              Meeitng Room Ceiling inspiration
 
-        -
-          image_url: "/img/projects/unilever/17Custom designed and built Wet Wall and Tea Point.jpg"
-          caption: |
-             Custom designed and built Wet Wall and Tea Point
-        -
-          image_url: "/img/projects/unilever/18 Custom design and built Scent Wall and Materials wall.jpg"
-          caption: |
-             Custom designed and built Scent Wall and Materials wall
-        -
-          image_url: "/img/projects/unilever/19.jpg"
-          caption: |
+          -
+            image_url: "/img/projects/bustle_1/2.jpg"
+            caption: |
+              Lounge Seating in Cafe with Touch Screen Coffee Tables
+          -
+            image_url: "/img/projects/bustle_1/3.jpg"
+            caption: |
+              Reception Desk
+          -
+            image_url: "/img/projects/bustle_1/4.jpg"
+            caption: |
+              Site Sketch for Reception Desk power and data integration
+          -
+            image_url: "/img/projects/bustle_1/5.jpg"
+            caption: |
+              Waiting Area
+          -
+            image_url: "/img/projects/bustle_1/6.jpg"
+            caption: |
+              Signage
+          -
+            image_url: "/img/projects/bustle_1/7.png"
+            caption: |
+              Site Sketch for Reception Desk power and data integration
+          -
+            image_url: "/img/projects/bustle_1/8.png"
+            caption: |
+              Waiting Area
+          -
+            image_url: "/img/projects/bustle_1/9.jpg"
+            caption: |
+              Signage
 
-        -
-          image_url: "/img/projects/unilever/20. Neon Light installation above Material Wall Millwork.jpg"
-          caption: |
-             Neon Light installation above Material Wall millwork
-        -
-          image_url: "/img/projects/unilever/21. My Contractor entertaining my Bindi fetish.jpg"
-          caption: |
-             My Contractor entertaining my Bindi fetish
-        -
-          image_url: "/img/projects/unilever/22. Coccon Chair outside the Artist Studio.jpg"
-          caption: |
-             Cocoon Chair outside the Artist Studio
-        -
-          image_url: "/img/projects/unilever/23. Plenary under construction.jpg"
-          caption: |
-             Plenary under construction
-        -
-          image_url: "/img/projects/unilever/24. Plenary complete.jpg"
-          caption: |
-             Plenary complete with virtual windows on far wall. These two monitors are connected to cameras located on the roof of the building for a live feed of the views outside.
-        -
-          image_url: "/img/projects/unilever/25. Roof Deck Under Construction.jpg"
-          caption: |
-             Roof Deck Under Construction
-        -
-          image_url: "/img/projects/unilever/26. Roof Deck and Skylight completed.jpg"
-          caption: |
-             Roof Deck and Skylight complete
-        -
-          image_url: "/img/projects/unilever/27.jpg"
-          caption: |
+    -
+      id: popup_slideshow_unilever
+      title: "Unilever"
+      image_dimensions:
+          max_height: 920
+      slides:
+          -
+            image_url: "/img/projects/unilever/1.Loung Seating in Cafe with Touch Screen Coffee Tables.jpg"
+            caption: |
+              Lounge Seating in Cafe with Touch Screen Coffee Tables
+          -
+            image_url: "/img/projects/unilever/2. Reception Desk.jpg"
+            caption: |
+              Reception Desk
+          -
+            image_url: "/img/projects/unilever/4. Waiting Area.jpg"
+            caption: |
+              Waiting Area
+          -
+            image_url: "/img/projects/unilever/5.jpg"
+            caption: |
+              Signage
+          -
+            image_url: "/img/projects/unilever/tunnel_concept.jpg"
+            caption: |
+              Tunnel design concept sketch by me
+          -
+            image_url: "/img/projects/unilever/7. Cafe with custom millwork and food carts.jpg"
+            caption: |
+              Cafe with custom millwork and food carts
+          -
+            image_url: "/img/projects/unilever/8.Internal Stair between two floors.jpg"
+            caption: |
+               Internal Stair between two floors
+          -
+            image_url: "/img/projects/unilever/12. Final Stair with digital screen art at Mid-landing.jpg"
+            caption: |
+               Final Stair with digital screen art at mid-landing
+          -
+            image_url: "/img/projects/unilever/12.5. Cafe space with a large moveable Video wall on Barn Door Hardware and steel framework.jpg"
+            caption: |
+               Cafe space with a large moveable Video wall on Barn Door Hardware and steel framework
+          -
+            image_url: "/img/projects/unilever/13. Material selection excersise with the client.jpg"
+            caption: |
+               Material selection exercise with the client
+          -
+            image_url: "/img/projects/unilever/18 Custom design and built Scent Wall and Materials wall.jpg"
+            caption: |
+               Custom designed and built Scent Wall and Materials wall
+          -
+            image_url: "/img/projects/unilever/19.jpg"
+            caption: |
 
-        -
-          image_url: "/img/projects/unilever/28.jpg"
-          caption: |
+          -
+            image_url: "/img/projects/unilever/22. Coccon Chair outside the Artist Studio.jpg"
+            caption: |
+               Cocoon Chair outside the Artist Studio
+          -
+            image_url: "/img/projects/unilever/24. Plenary complete.jpg"
+            caption: |
+               Plenary complete with virtual windows on far wall. These two monitors are connected to cameras located on the roof of the building for a live feed of the views outside.
 
-  -
-    id: popup_slideshow_egg
-    title: "Egg"
-    image_dimensions:
-        max_height: 920
-    slides:
-        -
-          image_url: "/img/projects/egg/1.jpg"
-          caption: |
+    -
+      id: popup_slideshow_nasdaq
+      title: "NASDAQ"
+      image_dimensions:
+          max_height: 920
+      slides:
+          -
+            image_url: "/img/projects/nasdaq/12.jpg"
+            caption: |
+              Brick Detail post completion
+          -
+            image_url: "/img/projects/nasdaq/1.jpg"
+            caption: |
+              NASDAQ
+          -
+            image_url: "/img/projects/nasdaq/6.jpg"
+            caption: |
+              Pantry
+          -
+            image_url: "/img/projects/nasdaq/7.jpg"
+            caption: |
+              Pantry
+          -
+            image_url: "/img/projects/nasdaq/9.2.jpg"
+            caption: |
+              Visioning session with client team.
+          -
+            image_url: "/img/projects/nasdaq/8.jpg"
+            caption: |
+              Network Operations Center - Design includes a projector in the ceiling that will project a long exposure live feed of people from the streets of Time Square. Rendering by other.
+          -
+            image_url: "/img/projects/nasdaq/10.jpg"
+            caption: |
+              NOC - Completed
+          -
+            image_url: "/img/projects/nasdaq/14.jpg"
+            caption: |
+              Meeting Rooms
+          -
+            image_url: "/img/projects/nasdaq/15.jpg"
+            caption: |
+              Open Collaboration Zone
+          -
+            image_url: "/img/projects/nasdaq/16.jpg"
+            caption: |
 
-        -
-          image_url: "/img/projects/egg/2.jpg"
-          caption: |
-            Hand Sketch of the design.
-        -
-          image_url: "/img/projects/egg/3.jpg"
-          caption: |
-            Rendering of the Reception and Display Area. Rendering by others.
-        -
-          image_url: "/img/projects/egg/4.jpg"
-          caption: |
-            Rendering of the Oval Meeting Room. Rendering by others.
-  -
-    id: popup_slideshow_rustom
-    title: "Rustom"
-    image_dimensions:
-        max_height: 920
-    slides:
-        -
-          image_url: "/img/projects/rustom/1. text.jpg"
-          caption: |
+    -
+      id: popup_slideshow_egg
+      title: "Egg"
+      image_dimensions:
+          max_height: 920
+      slides:
+          -
+            image_url: "/img/projects/egg/4.jpg"
+            caption: |
+              Rendering of the Oval Meeting Room. Rendering by others.
+          -
+            image_url: "/img/projects/egg/2.jpg"
+            caption: |
+              Hand Sketch of the design.
+          -
+            image_url: "/img/projects/egg/3.jpg"
+            caption: |
+              Rendering of the Reception and Display Area. Rendering by others.
 
-        -
-          image_url: "/img/projects/rustom/1.jpg"
-          caption: |
-            Floating Entrance door
-        -
-          image_url: "/img/projects/rustom/2.jpg"
-          caption: |
-            Floor Plan
-        -
-          image_url: "/img/projects/rustom/3.jpg"
-          caption: |
-            Living Room
-        -
-          image_url: "/img/projects/rustom/4.jpg"
-          caption: |
-            Facade included Red Stone excavated on site.
-        -
-          image_url: "/img/projects/rustom/5.jpg"
-          caption: |
-            Completed elevation
-        -
-          image_url: "/img/projects/rustom/6.jpg"
-          caption: |
-            Study model made by me
-        -
-          image_url: "/img/projects/rustom/7.jpg"
-          caption: |
-            Infinity Pool under construction
-        -
-          image_url: "/img/projects/rustom/8.jpg"
-          caption: |
-            Balcony railing detail
-  -
-    id: popup_slideshow_coronet
-    title: "Coronet"
-    image_dimensions:
-        max_height: 920
-    slides:
-        -
-          image_url: "/img/projects/coronet/cover.jpg"
-          caption: |
+    -
+      id: popup_slideshow_rustom
+      title: "Rustom"
+      image_dimensions:
+          max_height: 920
+      slides:
+          -
+            image_url: "/img/projects/rustom/1.jpg"
+            caption: |
+              Floating Entrance door
+          -
+            image_url: "/img/projects/rustom/8.jpg"
+            caption: |
+              Balcony railing detail
+          -
+            image_url: "/img/projects/rustom/2.jpg"
+            caption: |
+              Floor Plan
+          -
+            image_url: "/img/projects/rustom/3.jpg"
+            caption: |
+              Living Room
+          -
+            image_url: "/img/projects/rustom/5.jpg"
+            caption: |
+              Completed elevation
+          -
+            image_url: "/img/projects/rustom/6.jpg"
+            caption: |
+              Study model
 
-        -
-          image_url: "/img/projects/coronet/1.jpg"
-          caption: |
-            CoreNet Competition Entry: Round 1, Page 1/2
-        -
-          image_url: "/img/projects/coronet/2.jpg"
-          caption: |
-            CoreNet Competition Entry: Round 1, Page 2/2
-        -
-          markup: |
-            <iframe src="https://www.youtube.com/embed/SRTv4K3C4ws" frameborder="0" allowfullscreen></iframe>
-          caption: |
-            CoreNet Winning Entry model with Floating Hologram Video
-        -
-          image_url: "/img/projects/coronet/3.jpg"
-          caption: |
-            Interior Scene of one of our alternate reality landscapes
-        -
-          image_url: "/img/projects/coronet/4.jpg"
-          caption: |
-            Model interior made with foancore, black electric tape and balsa wood
-        -
-          image_url: "/img/projects/coronet/5.jpg"
-          caption: |
+    -
+      id: popup_slideshow_coronet
+      title: "Coronet"
+      image_dimensions:
+          max_height: 920
+      slides:
+          -
+            image_url: "/img/projects/coronet/1.jpg"
+            caption: |
+              CoreNet Competition Entry: Round 1, Page 1/2
+          -
+            image_url: "/img/projects/coronet/2.jpg"
+            caption: |
+              CoreNet Competition Entry: Round 1, Page 2/2
+          -
+            markup: |
+              <iframe src="https://www.youtube.com/embed/SRTv4K3C4ws" frameborder="0" allowfullscreen></iframe>
+            caption: |
+              CoreNet Winning Entry model with Floating Hologram Video
+          -
+            image_url: "/img/projects/coronet/3.jpg"
+            caption: |
+              Interior Scene of one of our alternate reality landscapes
+          -
+            image_url: "/img/projects/coronet/4.jpg"
+            caption: |
+              Model interior made with foamcore, black electric tape and balsa wood
+          -
+            image_url: "/img/projects/coronet/5.jpg"
+            caption: |
 
-        -
-          image_url: "/img/projects/coronet/6.jpg"
-          caption: |
-            Final Model displayed at the Intrepid Museum in NYC
-        -
-          image_url: "/img/projects/coronet/7.jpg"
-          caption: |
-            No. 1
-        -
-          image_url: "/img/projects/coronet/8.jpg"
-          caption: |
-            Flat Stanley
-        -
-          image_url: "/img/projects/coronet/9.jpg"
-          caption: |
-            Making of the box
-        -
-          image_url: "/img/projects/coronet/10.jpg"
-          caption: |
-            Who put me inside the box?!
-        -
-          image_url: "/img/projects/coronet/11.jpg"
-          caption: |
-            Nailing miters of a 1/8" ply in not fun
-        -
-          image_url: "/img/projects/coronet/12.jpg"
-          caption: |
-            My amazing team
-        -
-          image_url: "/img/projects/coronet/13.jpg"
-          caption: |
-            The Black outter box
-        -
-          image_url: "/img/projects/coronet/14.jpg"
-          caption: |
-            The white inner box with a plexi panel for hologram projection
-        -
-          image_url: "/img/projects/coronet/15.jpg"
-          caption: |
-            My massing concept for the interiors of the box
-        -
-          image_url: "/img/projects/coronet/16.jpg"
-          caption: |
-            First attempt at mirror mountains
-        -
-          image_url: "/img/projects/coronet/17.jpg"
-          caption: |
-            Alternate Reality lanscape in progress
-  -
-    id: popup_slideshow_dsm
-    title: "Don't Show Me"
-    image_dimensions:
-        max_height: 920
-    slides:
-        -
-          image_url: "/img/projects/dsm/cover.jpg"
-          caption: |
+          -
+            image_url: "/img/projects/coronet/6.jpg"
+            caption: |
+              Final Model displayed at the Intrepid Museum in NYC
+          -
+            image_url: "/img/projects/coronet/7.jpg"
+            caption: |
+              No. 1
 
-        -
-          image_url: "/img/projects/dsm/1.jpg"
-          caption: |
-            Interviewed by Archinect.com
-        -
-          image_url: "/img/projects/dsm/2.jpg"
-          caption: |
-            On BBC World
-        -
-          image_url: "/img/projects/dsm/3.jpg"
-          caption: |
-            Published in multiple fashion magazines
-        -
-          image_url: "/img/projects/dsm/4.jpg"
-          caption: |
+    -
+      id: popup_slideshow_dsm
+      title: "Don't Show Me"
+      image_dimensions:
+          max_height: 920
+      slides:
+          -
+            image_url: "/img/projects/dsm/cover.jpg"
+            caption: |
 
-        -
-          image_url: "/img/projects/dsm/5.jpg"
-          caption: |
-            Published in India Business of Fashion Report 2013 Yearbook
-        -
-          image_url: "/img/projects/dsm/6.jpg"
-          caption: |
-            Published in POOL International Design Book
-        -
-          image_url: "/img/projects/dsm/7.1.jpg"
-          caption: |
-            "Levitation": A photo art project with photographer Rishi Vimadalal for my blog Don't Shoe Me
-        -
-          image_url: "/img/projects/dsm/8.jpg"
-          caption: |
-            "May the Gods Me with You": A photo art project with photographer Alison Wynn for my blog Don't Shoe Me
-        -
-          image_url: "/img/projects/dsm/9.1.jpg"
-          caption: |
-            "Stairway to Mars": Photo by Alison Wynn
-        -
-          image_url: "/img/projects/dsm/10.jpg"
-          caption: |
-            "A Day in the life of a glamorous Construction Worker": Photo story shot in the slums of Raey Road in Mumbai by Upasana Jain.
-        -
-          image_url: "/img/projects/dsm/11.jpg"
-          caption: |
-            "Postage stamp, something to write home about": Performance Art with Iranian artist Nooshin Rustomi at Flux Factory art gallery in Long Island City, NY.
+          -
+            image_url: "/img/projects/dsm/1.jpg"
+            caption: |
+              Interviewed by Archinect.com
+          -
+            image_url: "/img/projects/dsm/2.jpg"
+            caption: |
+              On BBC World
+          -
+            image_url: "/img/projects/dsm/3.jpg"
+            caption: |
+              Published in multiple fashion magazines
+          -
+            image_url: "/img/projects/dsm/4.jpg"
+            caption: |
 
-  -
-    id: popup_slideshow_nasdaq
-    title: "NASDAQ"
-    image_dimensions:
-        max_height: 920
-    slides:
-        -
-          image_url: "/img/projects/nasdaq/cover.jpg"
-          caption: |
+          -
+            image_url: "/img/projects/dsm/5.jpg"
+            caption: |
+              Published in India Business of Fashion Report 2013 Yearbook
+          -
+            image_url: "/img/projects/dsm/6.jpg"
+            caption: |
+              Published in POOL International Design Book
+          -
+            image_url: "/img/projects/dsm/7.1.jpg"
+            caption: |
+              "Levitation": A photo art project with photographer Rishi Vimadalal for my blog Don't Shoe Me
+          -
+            image_url: "/img/projects/dsm/8.jpg"
+            caption: |
+              "May the Gods Me with You": A photo art project with photographer Alison Wynn for my blog Don't Shoe Me
+          -
+            image_url: "/img/projects/dsm/9.1.jpg"
+            caption: |
+              "Stairway to Mars": Photo by Alison Wynn
+          -
+            image_url: "/img/projects/dsm/10.jpg"
+            caption: |
+              "A Day in the life of a glamorous Construction Worker": Photo story shot in the slums of Raey Road in Mumbai by Upasana Jain.
+          -
+            image_url: "/img/projects/dsm/11.jpg"
+            caption: |
+              "Postage stamp, something to write home about": Performance Art with Iranian artist Nooshin Rustomi at Flux Factory art gallery in Long Island City, NY.
 
-        -
-          image_url: "/img/projects/nasdaq/1.jpg"
-          caption: |
-            NASDAQ
-        -
-          image_url: "/img/projects/nasdaq/2.jpg"
-          caption: |
-            NASDAQ
-        -
-          image_url: "/img/projects/nasdaq/3.jpg"
-          caption: |
-            NASDAQ
-        -
-          image_url: "/img/projects/nasdaq/4.jpg"
-          caption: |
-            Pantry - Design Rendering
-        -
-          image_url: "/img/projects/nasdaq/5.jpg"
-          caption: |
-            Pantry - During Construction
-        -
-          image_url: "/img/projects/nasdaq/6.jpg"
-          caption: |
-            Pantry - Completed
-        -
-          image_url: "/img/projects/nasdaq/7.jpg"
-          caption: |
-            Pantry
-        -
-          image_url: "/img/projects/nasdaq/9.2.jpg"
-          caption: |
-            Visioning session with client team.
-        -
-          image_url: "/img/projects/nasdaq/9.3.jpg"
-          caption: |
-            When you take CEOs and CTOs furniture shopping.
-        -
-          image_url: "/img/projects/nasdaq/8.jpg"
-          caption: |
-            Network Operations Center - Design includes a projector in the ceiling that will project a long exposure live feed of people from the streets of Time Square. Rendering by other.
-        -
-          image_url: "/img/projects/nasdaq/9.jpg"
-          caption: |
-            NOC Design Option Rendering - Paul Smith wallcovering to represent the lights and energy of Time Square. Rendering by other.
-        -
-          image_url: "/img/projects/nasdaq/10.jpg"
-          caption: |
-            NOC - Completed
-        -
-          image_url: "/img/projects/nasdaq/11.jpg"
-          caption: |
-            Brick Detail  during construction
-        -
-          image_url: "/img/projects/nasdaq/12.jpg"
-          caption: |
-            Brick Detail post completion
-        -
-          image_url: "/img/projects/nasdaq/13.jpg"
-          caption: |
-            Design Rendering of Meeting Rooms. All computer renderings by others.
-        -
-          image_url: "/img/projects/nasdaq/14.jpg"
-          caption: |
-            Completed Meeting Rooms
-        -
-          image_url: "/img/projects/nasdaq/15.jpg"
-          caption: |
-            Open Collaboration Zone
-        -
-          image_url: "/img/projects/nasdaq/16.jpg"
-          caption: |
+    -
+      id: popup_slideshow_bwstall
+      title: "Brightest Circle"
+      image_dimensions:
+          max_height: 920
+      slides:
+          -
+            image_url: "/img/projects/bwstall/2.jpg"
+            caption: |
+              Design concept sketch by me.
+          -
+            image_url: "/img/projects/bwstall/3.jpg"
+            caption: |
+              Rendering of the 3 Meeting Rooms and jewelry display area. Rendering by others.
 
-  -
-    id: popup_slideshow_bwstall
-    title: "Brightest Circle"
-    image_dimensions:
-        max_height: 920
-    slides:
-        -
-          image_url: "/img/projects/bwstall/1.jpg"
-          caption: |
-
-        -
-          image_url: "/img/projects/bwstall/2.jpg"
-          caption: |
-            Design concept sketch by me.
-        -
-          image_url: "/img/projects/bwstall/3.jpg"
-          caption: |
-            Rendering of the 3 Meeting Rooms and jewelry display area. Rendering by others.
 
 thumbnail_collections:
     -
         id: project_thumbnails
         location:
-            left: 4575
-            top: 295
+            left: 4585
+            top: 330
         dimensions:
-            width: 400
-            height: 500
+            width: 390
+            height: 330
         thumbnails:
             -
-                id: project_thumbnail_001
-                image: http://lorempixel.com/140/90
+                id: project_thumbnail_bustle_2
+                image: /img/projects/bustle_2/1.jpg
                 title: "Commercial Interiors - Lead Designer"
+                dimensions:
+                    width: 140
+                    height: 90
+                popup_slideshow:
+                    popup_slideshow_id: "popup_slideshow_bustle_2"
+            -
+                id: project_thumbnail_bustle1
+                image: /img/projects/bustle_1/1.jpg
+                title: "Commercial Interiors - Project Manager and Co-Designer"
+                dimensions:
+                    width: 140
+                    height: 90
+                popup_slideshow:
+                    popup_slideshow_id: "popup_slideshow_bustle1"
+            -
+                id: project_thumbnail_001
+                image: /img/projects/unilever/1.Loung Seating in Cafe with Touch Screen Coffee Tables.jpg
+                title: "Commercial Interiors - Project Manager and Co-Designer"
                 dimensions:
                     width: 140
                     height: 90
@@ -1435,43 +1346,16 @@ thumbnail_collections:
                     popup_slideshow_id: "popup_slideshow_unilever"
             -
                 id: project_thumbnail_002
-                image: http://lorempixel.com/140/90
+                image: /img/projects/nasdaq/12.jpg
                 title: "Commercial Interiors - Lead Designer"
-                dimensions:
-                    width: 140
-                    height: 90
-                popup_slideshow:
-                    popup_slideshow_id: "popup_slideshow_bwstall"
-            -
-                id: project_thumbnail_003
-                image: http://lorempixel.com/140/90
-                title: "Commercial Interiors - Project Manager + Co-Designer"
                 dimensions:
                     width: 140
                     height: 90
                 popup_slideshow:
                     popup_slideshow_id: "popup_slideshow_nasdaq"
             -
-                id: project_thumbnail_004
-                image: http://lorempixel.com/140/90
-                title: "Design Competition - Winner!"
-                dimensions:
-                    width: 140
-                    height: 90
-                popup_slideshow:
-                    popup_slideshow_id: "popup_slideshow_egg"
-            -
-                id: project_thumbnail_005
-                image: http://lorempixel.com/140/90
-                title: "Design Competition - Winner!"
-                dimensions:
-                    width: 140
-                    height: 90
-                popup_slideshow:
-                    popup_slideshow_id: "popup_slideshow_rustom"
-            -
                 id: project_thumbnail_006
-                image: http://lorempixel.com/140/90
+                image: /img/projects/coronet/4.jpg
                 title: "Design Competition - Winner!"
                 dimensions:
                     width: 140
@@ -1480,10 +1364,37 @@ thumbnail_collections:
                     popup_slideshow_id: "popup_slideshow_coronet"
             -
                 id: project_thumbnail_007
-                image: http://lorempixel.com/140/90
-                title: "Design Competition - Winner!"
+                image: /img/projects/dsm/1.jpg
+                title: "Fashion"
                 dimensions:
                     width: 140
                     height: 90
                 popup_slideshow:
                     popup_slideshow_id: "popup_slideshow_dsm"
+            -
+                id: project_thumbnail_003
+                image: /img/projects/egg/4.jpg
+                title: "Retail Exhibition Design - Lead Designer"
+                dimensions:
+                    width: 140
+                    height: 90
+                popup_slideshow:
+                    popup_slideshow_id: "popup_slideshow_egg"
+            -
+                id: project_thumbnail_004
+                image: /img/projects/bwstall/3.jpg
+                title: "Retail Exhibition Design - Lead Designer"
+                dimensions:
+                    width: 140
+                    height: 90
+                popup_slideshow:
+                    popup_slideshow_id: "popup_slideshow_bwstall"
+            -
+                id: project_thumbnail_005
+                image: /img/projects/rustom/1.jpg
+                title: "Residential Architecture and Interior Design - Junior Architect"
+                dimensions:
+                    width: 140
+                    height: 90
+                popup_slideshow:
+                    popup_slideshow_id: "popup_slideshow_rustom"
