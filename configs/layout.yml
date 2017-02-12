@@ -232,7 +232,7 @@ objects:
         top: 177
         left: 2760
     dimensions:
-        width: 238
+        width: 252
         height: 144
     hidden: true
   -
@@ -242,8 +242,8 @@ objects:
         top: 874
         left: 3131
     dimensions:
-        width: 188
-        height: 91
+        width: 190
+        height: 90
     hidden: true
   -
     id: "resume_diabes_swap_hidden"
@@ -252,8 +252,8 @@ objects:
         top: 680
         left: 3400
     dimensions:
-        width: 197
-        height: 91
+        width: 214
+        height: 90
     hidden: true
   -
     id: "resume_buck_moorhead_swap_hidden"
@@ -262,8 +262,8 @@ objects:
         top: 543
         left: 2713
     dimensions:
-        width: 222
-        height: 90
+        width: 239
+        height: 89
     hidden: true
   -
     id: "resume_corgan_swap_hidden"
@@ -272,8 +272,8 @@ objects:
         top: 172
         left: 3550
     dimensions:
-        width: 203
-        height: 121
+        width: 163
+        height: 118
     hidden: true
   -
     id: "resume_ba"
@@ -295,9 +295,9 @@ objects:
     alt: "MS"
     location:
         top: 177
-        left: 2760
+        left: 2750
     dimensions:
-        width: 238
+        width: 252
         height: 144
     popup_banner:
         popup_content_id: "resume_ms_popup"
@@ -311,8 +311,8 @@ objects:
         top: 874
         left: 3131
     dimensions:
-        width: 188
-        height: 91
+        width: 190
+        height: 90
     popup_banner:
         popup_content_id: "resume_grad_assoc_popup"
     hover_swap:
@@ -323,10 +323,10 @@ objects:
     alt: "Waterside Construction"
     location:
         top: 680
-        left: 3400
+        left: 3405
     dimensions:
-        width: 197
-        height: 91
+        width: 214
+        height: 90
     popup_banner:
         popup_content_id: "resume_diabes_popup"
     hover_swap:
@@ -337,10 +337,10 @@ objects:
     alt: "Buck Moorhead"
     location:
         top: 543
-        left: 2713
+        left: 2708
     dimensions:
-        width: 222
-        height: 90
+        width: 238
+        height: 89
     popup_banner:
         popup_content_id: "resume_buck_moorhead_popup"
     hover_swap:
@@ -351,10 +351,10 @@ objects:
     alt: "Corgan"
     location:
         top: 172
-        left: 3550
+        left: 3570
     dimensions:
-        width: 203
-        height: 121
+        width: 163
+        height: 118
     popup_banner:
         popup_content_id: "resume_corgan_popup"
     hover_swap:
@@ -489,7 +489,7 @@ objects:
     image_url: "/img/pigeons.png"
     location:
         top: -14
-        left: 3883
+        left: 3793
     dimensions:
         width: 2113
         height: 580
@@ -834,10 +834,9 @@ text:
   -
     id: "contact_text"
     copy: |
-        You can often find Prutha riding her zebralephant in the East village.
-        But for the rest of the time you could find her at:<br />
-        405 E 6th street<br />
-        New York, NY 10009
+        You can often find Prutha riding her zebralephant in the East village.<br />
+        But for the rest of the time you can reach her at:<br />
+        <a href="mailto:rprutha@yahoo.com">rprutha@yahoo.com</a>
     location:
         top: 450
         left: 7235
