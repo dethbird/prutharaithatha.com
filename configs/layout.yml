@@ -1319,82 +1319,98 @@ thumbnail_collections:
         thumbnails:
             -
                 id: project_thumbnail_bustle_2
-                image: /img/projects/bustle_2/1.jpg
-                title: "Commercial Interiors - Lead Designer"
+                image: /img/projects/covers/bustle 2.jpg
+                title: |
+                  Commercial Interiors<br />
+                  Lead Designer
                 dimensions:
                     width: 140
-                    height: 90
+                    height: 140
                 popup_slideshow:
                     popup_slideshow_id: "popup_slideshow_bustle_2"
             -
                 id: project_thumbnail_bustle1
-                image: /img/projects/bustle_1/1.jpg
-                title: "Commercial Interiors - Project Manager and Co-Designer"
+                image: /img/projects/covers/bustle 1.jpg
+                title: |
+                  Commercial Interiors<br />
+                  Lead Designer
                 dimensions:
                     width: 140
-                    height: 90
+                    height: 140
                 popup_slideshow:
                     popup_slideshow_id: "popup_slideshow_bustle1"
             -
                 id: project_thumbnail_001
-                image: /img/projects/unilever/1.Loung Seating in Cafe with Touch Screen Coffee Tables.jpg
-                title: "Commercial Interiors - Project Manager and Co-Designer"
+                image: /img/projects/covers/unilever.jpg
+                title: |
+                  Commercial Interiors<br />
+                  PM + Co-Designer"
                 dimensions:
                     width: 140
-                    height: 90
+                    height: 140
                 popup_slideshow:
                     popup_slideshow_id: "popup_slideshow_unilever"
             -
                 id: project_thumbnail_002
-                image: /img/projects/nasdaq/12.jpg
-                title: "Commercial Interiors - Lead Designer"
+                image: /img/projects/covers/nasdaq.jpg
+                title:  |
+                  Commercial Interiors<br />
+                  Lead Designer
                 dimensions:
                     width: 140
-                    height: 90
+                    height: 140
                 popup_slideshow:
                     popup_slideshow_id: "popup_slideshow_nasdaq"
             -
                 id: project_thumbnail_006
-                image: /img/projects/coronet/4.jpg
-                title: "Design Competition - Winner!"
+                image: /img/projects/covers/corenet.jpg
+                title:   |
+                  Design Competition<br />
+                  Winner!
                 dimensions:
                     width: 140
-                    height: 90
+                    height: 140
                 popup_slideshow:
                     popup_slideshow_id: "popup_slideshow_coronet"
             -
                 id: project_thumbnail_007
-                image: /img/projects/dsm/1.jpg
+                image: /img/projects/covers/dsm.jpg
                 title: "Fashion"
                 dimensions:
                     width: 140
-                    height: 90
+                    height: 140
                 popup_slideshow:
                     popup_slideshow_id: "popup_slideshow_dsm"
             -
                 id: project_thumbnail_003
-                image: /img/projects/egg/4.jpg
-                title: "Retail Exhibition Design - Lead Designer"
+                image: /img/projects/covers/egg.jpg
+                title:  |
+                  Retail Exhibition Design<br />
+                  Lead Designer
                 dimensions:
                     width: 140
-                    height: 90
+                    height: 140
                 popup_slideshow:
                     popup_slideshow_id: "popup_slideshow_egg"
             -
                 id: project_thumbnail_004
-                image: /img/projects/bwstall/3.jpg
-                title: "Retail Exhibition Design - Lead Designer"
+                image: /img/projects/covers/bw stall.jpg
+                title:   |
+                  Retail Exhibition Design<br />
+                  Lead Designer
                 dimensions:
                     width: 140
-                    height: 90
+                    height: 140
                 popup_slideshow:
                     popup_slideshow_id: "popup_slideshow_bwstall"
             -
                 id: project_thumbnail_005
-                image: /img/projects/rustom/1.jpg
-                title: "Residential Architecture and Interior Design - Junior Architect"
+                image: /img/projects/covers/rustom 2.jpg
+                title:   |
+                  Residential Design<br />
+                  Junior Architect
                 dimensions:
                     width: 140
-                    height: 90
+                    height: 140
                 popup_slideshow:
                     popup_slideshow_id: "popup_slideshow_rustom"

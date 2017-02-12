@@ -140,13 +140,15 @@ img.hotspot {
 .thumbnail_image {
     float: left;
     margin-right: 5px;
-    border-radius: 10px;
+    border-radius: 50%;
     border: 2px solid black;
+    height: 140px;
+    width: 140px;
 
 }
 
 .thumbnail_title {
-    font-weight: bold;
+    font-size: 14px;
 }
 
 @media screen and (max-width: 700px) {
