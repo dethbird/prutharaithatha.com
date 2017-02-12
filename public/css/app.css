@@ -148,10 +148,30 @@ img.hotspot {
 }
 
 .thumbnail_title {
+    margin-top: 40px;
     font-size: 14px;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 1367px) {
+    .thumbnail_title {
+        margin-top: 28px;
+    }
+}
+
+@media screen and (max-width: 1281px) {
+    .thumbnail_title {
+        margin-top: 25px;
+    }
+}
+
+@media screen and (max-width: 1025px) {
+    .thumbnail_title {
+        font-size: 12px;
+        margin-top: 18px;
+    }
+}
+
+@media screen and (max-width: 800px) {
     body {
         /*background-color: lightgreen;*/
     }
@@ -169,6 +189,7 @@ img.hotspot {
       font-size: 1.8rem;
     }
     .thumbnail_title {
+        margin-top: 0px;
         font-size: 12px;
     }
 }
