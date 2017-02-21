@@ -17,7 +17,7 @@ body {
   hyphens: auto;
 }
 #contact_text {
-  font-weight: bold;
+  font-weight: normal;
 }
 #container {
   width: 7740px;
@@ -127,6 +127,50 @@ img.hotspot {
 .hidden {
   display: none;
 }
+.thumbnail_collection {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.thumbnail_container {
+    margin-bottom: 15px;
+}
+.thumbnail_image {
+    float: left;
+    margin-right: 5px;
+    border-radius: 50%;
+    border: 2px solid black;
+    height: 140px;
+    width: 140px;
+
+}
+
+.thumbnail_title {
+    margin-top: 40px;
+    font-size: 14px;
+}
+
+@media screen and (max-width: 1367px) {
+    .thumbnail_title {
+        margin-top: 28px;
+    }
+}
+
+@media screen and (max-width: 1281px) {
+    .thumbnail_title {
+        margin-top: 25px;
+    }
+}
+
+@media screen and (max-width: 1025px) {
+    .thumbnail_title {
+        font-size: 12px;
+        margin-top: 18px;
+    }
+}
+
 @media screen and (max-width: 800px) {
     body {
         /*background-color: lightgreen;*/
@@ -143,5 +187,9 @@ img.hotspot {
     }
     h1 {
       font-size: 1.8rem;
+    }
+    .thumbnail_title {
+        margin-top: 0px;
+        font-size: 12px;
     }
 }
