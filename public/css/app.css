@@ -132,7 +132,7 @@ img.hotspot {
     flex-direction: column;
     justify-content: space-between;
     overflow-x: hidden;
-    overflow-y: auto;
+    overflow-y: scroll;
 }
 .thumbnail_container {
     margin-bottom: 15px;
