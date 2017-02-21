@@ -297,7 +297,7 @@ objects:
         top: 177
         left: 2750
     dimensions:
-        width: 252
+        width: 235
         height: 144
     popup_banner:
         popup_content_id: "resume_ms_popup"
@@ -322,11 +322,11 @@ objects:
     image_url: "/img/resume_diabes.png"
     alt: "Waterside Construction"
     location:
-        top: 680
+        top: 675
         left: 3405
     dimensions:
-        width: 214
-        height: 90
+        width: 189
+        height: 115
     popup_banner:
         popup_content_id: "resume_diabes_popup"
     hover_swap:
@@ -337,9 +337,9 @@ objects:
     alt: "Buck Moorhead"
     location:
         top: 543
-        left: 2708
+        left: 2712
     dimensions:
-        width: 238
+        width: 232
         height: 89
     popup_banner:
         popup_content_id: "resume_buck_moorhead_popup"
@@ -1374,7 +1374,8 @@ thumbnail_collections:
             -
                 id: project_thumbnail_007
                 image: /img/projects/covers/dsm.jpg
-                title: "Fashion"
+                title: |
+                    <br />Fashion
                 dimensions:
                     width: 140
                     height: 140
