@@ -113,7 +113,6 @@ body {
 }
 img.hotspot {
   opacity: 0;
-  cursor: pointer;
 }
 .popup-content {
   display: none;

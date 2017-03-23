@@ -519,8 +519,8 @@ objects:
         width: 99
         height: 198
     hotspot: true
-    popup_slideshow:
-        popup_slideshow_id: "popup_slideshow_unilever"
+    # popup_slideshow:
+    #     popup_slideshow_id: "popup_slideshow_unilever"
     hover_toggle:
         -
           toggle_id: "portfolio_hover_unilever"
@@ -535,8 +535,8 @@ objects:
         width: 153
         height: 170
     hotspot: true
-    popup_slideshow:
-        popup_slideshow_id: "popup_slideshow_bwstall"
+    # popup_slideshow:
+    #     popup_slideshow_id: "popup_slideshow_bwstall"
     hover_toggle:
         -
           toggle_id: "portfolio_hover_bwstall"
@@ -551,8 +551,8 @@ objects:
         width: 85
         height: 341
     hotspot: true
-    popup_slideshow:
-        popup_slideshow_id: "popup_slideshow_nasdaq"
+    # popup_slideshow:
+    #     popup_slideshow_id: "popup_slideshow_nasdaq"
     hover_toggle:
         -
           toggle_id: "portfolio_hover_nasdaq"
@@ -569,8 +569,8 @@ objects:
         width: 97
         height: 126
     hotspot: true
-    popup_slideshow:
-        popup_slideshow_id: "popup_slideshow_egg"
+    # popup_slideshow:
+    #     popup_slideshow_id: "popup_slideshow_egg"
     hover_toggle:
         -
           toggle_id: "portfolio_hover_egg"
@@ -585,8 +585,8 @@ objects:
         width: 139
         height: 147
     hotspot: true
-    popup_slideshow:
-        popup_slideshow_id: "popup_slideshow_rustom"
+    # popup_slideshow:
+    #     popup_slideshow_id: "popup_slideshow_rustom"
     hover_toggle:
         -
           toggle_id: "portfolio_hover_rustom"
@@ -601,8 +601,8 @@ objects:
         width: 107
         height: 143
     hotspot: true
-    popup_slideshow:
-        popup_slideshow_id: "popup_slideshow_coronet"
+    # popup_slideshow:
+    #     popup_slideshow_id: "popup_slideshow_coronet"
     hover_toggle:
         -
           toggle_id: "portfolio_hover_coronet"
@@ -617,8 +617,8 @@ objects:
         width: 75
         height: 218
     hotspot: true
-    popup_slideshow:
-        popup_slideshow_id: "popup_slideshow_dsm"
+    # popup_slideshow:
+    #     popup_slideshow_id: "popup_slideshow_dsm"
     hover_toggle:
         -
           toggle_id: "portfolio_hover_dsm"
