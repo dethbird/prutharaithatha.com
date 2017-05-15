@@ -808,12 +808,11 @@ text:
     copy: |
         Prutha Raithatha is a unicorn in the making. She loves space design, fashion, daydreaming and dogs. She believes all alarm clocks are reincarnations of past dictators who loved harassing the kind restful souls of the night. But once at work, she resumes her aggressive quest to make the world an interesting  place one wall at a time. She also hates talking about herself in the third person but that's what all the good people of the inter-web advise on “how to write a bio”. Wasn't <strike>me</strike> her.
 
-        Prutha has over 11 years of work experience in the architecture and interior design industry in the NYC/ NJ area. She is a LEED Accredited Professional. She has a Bachelor of Architecture from Mumbai University (India) and a Master of Science in Sustainable Design from Carnegie Mellon University (USA). She is currently employed with Corgan Associates as a Project Architect in their commercial interior design studio and loves it. She is a strong leader, a collaborator with co-workers, consultants, and clients, and nearly always, completes her projects having fostered lifelong relationships with the project team.
+        Prutha has over 12 years of work experience in the architecture and interior design industry in the NYC/ NJ area. She is a LEED Accredited Professional. She has a Bachelor of Architecture from Mumbai University (India) and a Master of Science in Sustainable Design from Carnegie Mellon University (USA). She is currently employed with Corgan Associates as a Senior Designer / Project Architect (staff) in their commercial interior design studio and loves it. She is a strong leader, a collaborator with co-workers, consultants, and clients, and nearly always, completes her projects having fostered lifelong relationships with the project team.
 
         Her main goal in life is to be a designer. A good one. The kind of designer who has worked hard and experimented so much that they have finally found their own style that the world recognizes as distinctly their own. She is constantly experimenting, thinking, questioning and refining her creative process. She strongly believes that in order to stay creative one needs to step away from their profession in their free time and delve into other forms of art for inspiration. Creativity needs practice. Invention is a result of experimentation.
 
-
-        When bored, she is restless and takes pictures of people on the street who look creative; she dresses herself as a character of her imagination and struts the streets of Manhattan. She also loves taking care of her organic garden in the East Village, collaborating with artists on art projects, sipping chai with family and being freaked out by her youngest niece who looks like a 3’-0” tall version of herself.
+        In her free time she also takes pictures of people on the street who look creative; she dresses herself as a character of her imagination and struts the streets of Manhattan. She also loves taking care of her organic garden in the East Village, collaborating with artists on art projects, sipping chai with family and being freaked out by her youngest niece who looks like a 3’-0” tall version of herself.
 
         Ultimately Prutha hopes that she can contribute to this world in some creative way. Maybe also grow a pair of wings. How long can that take?
 
@@ -907,6 +906,7 @@ popup_banner:
         </div>
         <div class="col-xs-12">
           <ul>
+            <li>Bustle, Corporate Interior, Two-storey high-end experiential interior design project in Mid-town, Manhattan (34,000 SF): Led Designer and Project Architect.</li>
             <li>Unilever, Corporate Interior, Two-storey high-end experiential interior design project in Tribeca, Manhattan (20,000 SF): Project Manager and Designer. Led the project from start to finish.</li>
             <li>NASDAQ, Corporate Interior, Two storey high-end corporate interior design project in Time Square, Manhattan (18,000 SF): Senior Designer. Designed the space to fit the needs of the client’s aesthetic, brand, schedule and budget.  </li>
             <li>Design Spotlight Competition for CoreNet’s Annual Dinner Gala: Design leader. Led the design and execution on the concept of Alternate Realities as a respose to the competition topic of "Disruptive Innovation". Submitted a winning entry and landed Corgan in the first place in the Competition.</li>
@@ -979,18 +979,22 @@ popup_slideshow:
             image_url: "/img/projects/bustle_2/1.jpg"
             caption: |
               Townhall / Pantry Area
+              (Rendering by others)
           -
             image_url: "/img/projects/bustle_2/2.jpg"
             caption: |
               Infinity Room inspired Welcome Zone
+              (Rendering by others)
           -
             image_url: "/img/projects/bustle_2/3.jpg"
             caption: |
               Open Office Area
+              (Rendering by others)
           -
             image_url: "/img/projects/bustle_2/4.jpg"
             caption: |
               Townhall / Pantry Area
+              (Rendering by others)
 
     -
       id: popup_slideshow_bustle1
@@ -1001,40 +1005,40 @@ popup_slideshow:
           -
             image_url: "/img/projects/bustle_1/1.jpg"
             caption: |
-              Meeitng Room Ceiling inspiration
+              Meeitng Room Ceiling inspiration image (Source: Martin Klimas)
 
           -
             image_url: "/img/projects/bustle_1/2.jpg"
             caption: |
-              Lounge Seating in Cafe with Touch Screen Coffee Tables
+              Proposed Meeting Room design (Rendering by others)
           -
             image_url: "/img/projects/bustle_1/3.jpg"
             caption: |
-              Reception Desk
+              Inspiration image for Reception Desk (Source: Design Research Studio)
           -
             image_url: "/img/projects/bustle_1/4.jpg"
             caption: |
-              Site Sketch for Reception Desk power and data integration
+              Proposed Reception Desk design (Rendering by others)
           -
             image_url: "/img/projects/bustle_1/5.jpg"
             caption: |
-              Waiting Area
+              Inspiration image for Oversized bean bags in Cafe Area (Source: Playscapes)
           -
             image_url: "/img/projects/bustle_1/6.jpg"
             caption: |
-              Signage
+              Proposed Cafe/ Townhall design (Rendering by others)
           -
             image_url: "/img/projects/bustle_1/7.png"
             caption: |
-              Site Sketch for Reception Desk power and data integration
+              Sketch showing Infinity mirrored risers for stadium Seating.
           -
             image_url: "/img/projects/bustle_1/8.png"
             caption: |
-              Waiting Area
+              Sketch showing Infinity mirrored risers for stadium Seating.
           -
             image_url: "/img/projects/bustle_1/9.jpg"
             caption: |
-              Signage
+              Inspiration image for Infinity mirror risers (Source: Unkown)
 
     -
       id: popup_slideshow_unilever
@@ -1108,11 +1112,11 @@ popup_slideshow:
           -
             image_url: "/img/projects/nasdaq/12.jpg"
             caption: |
-              Brick Detail post completion
+              Brick Detail at Pantry
           -
             image_url: "/img/projects/nasdaq/1.jpg"
             caption: |
-              NASDAQ
+              Cafe area
           -
             image_url: "/img/projects/nasdaq/6.jpg"
             caption: |
@@ -1233,7 +1237,7 @@ popup_slideshow:
           -
             image_url: "/img/projects/coronet/7.jpg"
             caption: |
-              No. 1
+              No. 1. Winners!
 
     -
       id: popup_slideshow_dsm
