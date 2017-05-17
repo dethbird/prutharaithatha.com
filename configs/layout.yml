@@ -1293,7 +1293,6 @@ popup_slideshow:
             image_url: "/img/projects/dsm/11.jpg"
             caption: |
               "Postage stamp, something to write home about": Performance Art with Iranian artist Nooshin Rustomi at Flux Factory art gallery in Long Island City, NY.
-
     -
       id: popup_slideshow_bwstall
       title: "Brightest Circle"
@@ -1308,8 +1307,20 @@ popup_slideshow:
             image_url: "/img/projects/bwstall/3.jpg"
             caption: |
               Rendering of the 3 Meeting Rooms and jewelry display area. Rendering by others.
-
-
+    -
+      id: popup_slideshow_sketches
+      title: "Sketches"
+      image_dimensions:
+          max_height: 920
+      slides:
+          -
+            image_url: "/img/projects/sketches/103-river-road-2012-copy.jpg"
+            caption: |
+              sketch 1
+          -
+            image_url: "/img/projects/sketches/2DD3D340-1364-4FF0-8264-71589BA8FEB0.large.JPG"
+            caption: |
+              sketch 2
 thumbnail_collections:
     -
         id: project_thumbnails
@@ -1364,6 +1375,16 @@ thumbnail_collections:
                     height: 140
                 popup_slideshow:
                     popup_slideshow_id: "popup_slideshow_nasdaq"
+            -
+                id: project_thumbnail_sketches
+                image: /img/projects/covers/nasdaq.jpg
+                title:  |
+                  Sketches
+                dimensions:
+                    width: 140
+                    height: 140
+                popup_slideshow:
+                    popup_slideshow_id: "popup_slideshow_sketches"
             -
                 id: project_thumbnail_006
                 image: /img/projects/covers/corenet.jpg
