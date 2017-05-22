@@ -1309,18 +1309,55 @@ popup_slideshow:
               Rendering of the 3 Meeting Rooms and jewelry display area. Rendering by others.
     -
       id: popup_slideshow_sketches
-      title: "Sketches"
+      title: "Hand Sketches"
       image_dimensions:
           max_height: 920
       slides:
           -
             image_url: "/img/projects/sketches/103-river-road-2012-copy.jpg"
             caption: |
-              sketch 1
+              Hand Rendering. Perspective by other.
           -
-            image_url: "/img/projects/sketches/2DD3D340-1364-4FF0-8264-71589BA8FEB0.large.JPG"
+            image_url: "/img/projects/sketches/girl-scouts-sketch.jpg"
             caption: |
-              sketch 2
+              Concept flow diagram
+          -
+            image_url: "/img/projects/sketches/thesis-sheet.jpg"
+            caption: |
+              Hand rendered plan and perspectives
+          -
+            image_url: "/img/projects/sketches/landscape--sketchs.jpg"
+            caption: |
+              Hand drafted and rendered plans and details.
+          -
+            image_url: "/img/projects/sketches/IMG_2298.JPG"
+            caption: |
+              Ipad sketch
+          -
+            image_url: "/img/projects/sketches/IMG_2300.JPG"
+            caption: |
+              Ipad digital print
+          -
+            image_url: "/img/projects/sketches/IMG_2301.JPG"
+            caption: |
+              Ipad concept sketch
+          -
+            image_url: "/img/projects/sketches/IMG_2626.JPG"
+            caption: |
+              Hand Rendering. Perspective by other.
+          -
+            image_url: "/img/projects/sketches/manish store section.jpg"
+            caption: |
+              Concept section
+          -
+            image_url: "/img/projects/sketches/master plannign section.jpg"
+            caption: |
+              Urban Planning concept section
+          -
+            image_url: "/img/projects/sketches/Tunnel concept sketch_ place after tunnel vieo in ul.JPG"
+            caption: |
+              Ipad sketch
+
 thumbnail_collections:
     -
         id: project_thumbnails
