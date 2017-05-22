@@ -1330,6 +1330,10 @@ popup_slideshow:
             caption: |
               Hand drafted and rendered plans and details.
           -
+            image_url: "/img/projects/sketches/CANOPY OPTIONS.jpg"
+            caption: |
+              Canopy concepts
+          -
             image_url: "/img/projects/sketches/IMG_2298.JPG"
             caption: |
               Ipad sketch
@@ -1414,9 +1418,9 @@ thumbnail_collections:
                     popup_slideshow_id: "popup_slideshow_nasdaq"
             -
                 id: project_thumbnail_sketches
-                image: /img/projects/covers/nasdaq.jpg
+                image: /img/projects/sketches/thesis bungalow.jpg
                 title:  |
-                  Sketches
+                  <br />Hand Sketches
                 dimensions:
                     width: 140
                     height: 140
