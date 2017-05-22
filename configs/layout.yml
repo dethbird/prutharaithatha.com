@@ -1314,10 +1314,6 @@ popup_slideshow:
           max_height: 920
       slides:
           -
-            image_url: "/img/projects/sketches/103-river-road-2012-copy.jpg"
-            caption: |
-              Hand Rendering. Perspective by other.
-          -
             image_url: "/img/projects/sketches/girl-scouts-sketch.jpg"
             caption: |
               Concept flow diagram
@@ -1361,6 +1357,10 @@ popup_slideshow:
             image_url: "/img/projects/sketches/Tunnel concept sketch_ place after tunnel vieo in ul.JPG"
             caption: |
               Ipad sketch
+          -
+            image_url: "/img/projects/sketches/103-river-road-2012-copy.jpg"
+            caption: |
+              Hand Rendering. Perspective by other.
 
 thumbnail_collections:
     -
