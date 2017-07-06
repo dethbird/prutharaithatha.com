@@ -976,6 +976,46 @@ popup_slideshow:
           max_height: 920
       slides:
           -
+            image_url: "/img/projects/bustle_2/2-1.jpg"
+            caption: |
+              Bustle
+          -
+            image_url: "/img/projects/bustle_2/2-2.jpg"
+            caption: |
+              Bustle
+          -
+            image_url: "/img/projects/bustle_2/2-3.jpg"
+            caption: |
+              Bustle
+          -
+            image_url: "/img/projects/bustle_2/2-4.jpg"
+            caption: |
+              Bustle
+          -
+            image_url: "/img/projects/bustle_2/2-5.jpg"
+            caption: |
+              Bustle
+          -
+            image_url: "/img/projects/bustle_2/2-6.jpg"
+            caption: |
+              Bustle
+          -
+            image_url: "/img/projects/bustle_2/2-7.jpg"
+            caption: |
+              Bustle
+          -
+            image_url: "/img/projects/bustle_2/2-8.jpg"
+            caption: |
+              Bustle
+          -
+            image_url: "/img/projects/bustle_2/2-9.jpg"
+            caption: |
+              Bustle
+          -
+            image_url: "/img/projects/bustle_2/2-10.jpg"
+            caption: |
+              Bustle
+          -
             image_url: "/img/projects/bustle_2/1.jpg"
             caption: |
               Townhall / Pantry Area
