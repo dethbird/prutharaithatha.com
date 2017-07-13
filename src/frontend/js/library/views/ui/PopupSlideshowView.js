@@ -25,6 +25,11 @@ var PopupSlideshowView = Backbone.View.extend({
         $(that.el).click(function(){
           that.next();
         });
+        $(document).keydown(function(e){
+            if(e.which===27){
+                that.jQpopup.hide();
+            }
+        });
 
     },
     next: function() {

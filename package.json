@@ -4,7 +4,7 @@
     "fountain-js": "0.0.1",
     "jquery": "^2.1.4",
     "timeago": "^1.4.3",
-    "uglify-js": "^2.5.0"
+    "uglify-js": "^2.8.29"
   },
   "scripts": {
     "deploy": "bash ./build.sh -pjc"

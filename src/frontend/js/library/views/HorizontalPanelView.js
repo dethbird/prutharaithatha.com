@@ -139,10 +139,10 @@ var HorizontalPanelView = Backbone.View.extend({
         _.each($(that.el).find('.thumbnail_image'), function(e, i){
             e = $(e);
             if (e.hasClass('popup-slideshow-trigger')) {
-                const slideshowId = e.data('popup-slideshow-id');
+                var slideshowId = e.data('popup-slideshow-id');
                 // console.log(slideshowId);
                 // console.log(e.attr('id'));
-                const popupSlideshowView = new PopupSlideshowView({
+                var popupSlideshowView = new PopupSlideshowView({
                     el: '#' + e.attr('id'),
                     popup_el: '#' + slideshowId,
                     object: null,
