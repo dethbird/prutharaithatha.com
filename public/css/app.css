@@ -26,6 +26,9 @@ body {
   position: relative;
   overflow-x: hidden;
 }
+.close {
+  margin-top: 20px;
+}
 #popup_banner {
   z-index: 5000;
   position: absolute;
