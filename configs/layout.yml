@@ -1074,6 +1074,52 @@ popup_slideshow:
             caption: |
               Avid 2018
     -
+      id: popup_slideshow_saar
+      title: Saar Restaurant
+      image_dimensions:
+          max_height: 920
+      slides:
+          -
+            image_url: "/img/projects/saar/1_Saar Restaurant in Midtown Manhattan.jpg"
+            caption: |
+              Saar Restaurant
+          -
+            image_url: "/img/projects/saar/2_Bar Detail.jpg"
+            caption: |
+              Saar Restaurant
+          -
+            image_url: "/img/projects/saar/3_Custom Panel Design.jpg"
+            caption: |
+              Saar Restaurant
+          -
+            image_url: "/img/projects/saar/4_Saar Restaurant in Mid-town Manhattan.jpg"
+            caption: |
+              Saar Restaurant
+          -
+            image_url: "/img/projects/saar/5_Custom wall covering.jpg"
+            caption: |
+              Saar Restaurant
+          -
+            image_url: "/img/projects/saar/6_Essence of Jaipur in a Bistro setting.jpg"
+            caption: |
+              Saar Restaurant
+          -
+            image_url: "/img/projects/saar/7_Custom Banquette Seating.jpg"
+            caption: |
+              Saar Restaurant
+          -
+            image_url: "/img/projects/saar/8_Pink City influences.jpg"
+            caption: |
+              Saar Restaurant
+          -
+            image_url: "/img/projects/saar/9.jpg"
+            caption: |
+              Saar Restaurant
+          -
+            image_url: "/img/projects/saar/10_Detail of Custom Panel at Bar.jpg"
+            caption: |
+              Saar Restaurant
+    -
       id: popup_slideshow_bustle_2
       title: "Bustle 2"
       image_dimensions:
@@ -1378,6 +1424,21 @@ popup_slideshow:
             image_url: "/img/projects/coronet/22.JPG"
             caption: |
           -
+            image_url: "/img/projects/coronet/18.JPG"
+            caption: |
+          -
+            image_url: "/img/projects/coronet/19.JPG"
+            caption: |
+          -
+            image_url: "/img/projects/coronet/20.JPG"
+            caption: |
+          -
+            image_url: "/img/projects/coronet/21.JPG"
+            caption: |
+          -
+            image_url: "/img/projects/coronet/22.JPG"
+            caption: |
+          -
             image_url: "/img/projects/coronet/23.JPG"
             caption: |
           -
@@ -1540,6 +1601,17 @@ thumbnail_collections:
                     height: 140
                 popup_slideshow:
                     popup_slideshow_id: "popup_slideshow_avid_2018"
+            -
+                id: project_thumbnail_saar
+                image: "/img/projects/saar/1_Saar Restaurant in Midtown Manhattan.jpg"
+                title: |
+                  Restaurant Interiors<br />
+                  Lead Designer
+                dimensions:
+                    width: 140
+                    height: 140
+                popup_slideshow:
+                    popup_slideshow_id: "popup_slideshow_saar"
             -
                 id: project_thumbnail_bustle_2
                 image: /img/projects/covers/bustle 2.jpg
