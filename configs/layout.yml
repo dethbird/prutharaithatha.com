@@ -970,6 +970,110 @@ popup_banner:
         </div>
 popup_slideshow:
     -
+      id: popup_slideshow_bustle_12th_floor
+      title: "Bustle 12th Floor"
+      image_dimensions:
+          max_height: 920
+      slides:
+          -
+            image_url: "/img/projects/bustle_12th_floor/1.JPG"
+            caption: |
+              Bustle 12th Floor
+          -
+            image_url: "/img/projects/bustle_12th_floor/2.JPG"
+            caption: |
+              Bustle 12th Floor
+          -
+            image_url: "/img/projects/bustle_12th_floor/3.JPG"
+            caption: |
+              Bustle 12th Floor
+          -
+            image_url: "/img/projects/bustle_12th_floor/4.JPG"
+            caption: |
+              Bustle 12th Floor
+          -
+            image_url: "/img/projects/bustle_12th_floor/5.JPG"
+            caption: |
+              Bustle 12th Floor
+          -
+            image_url: "/img/projects/bustle_12th_floor/6.JPG"
+            caption: |
+              Bustle 12th Floor
+          -
+            image_url: "/img/projects/bustle_12th_floor/7.JPG"
+            caption: |
+              Bustle 12th Floor
+          -
+            image_url: "/img/projects/bustle_12th_floor/8.JPG"
+            caption: |
+              Bustle 12th Floor
+          -
+            image_url: "/img/projects/bustle_12th_floor/9.JPG"
+            caption: |
+              Bustle 12th Floor
+          -
+            image_url: "/img/projects/bustle_12th_floor/10.JPG"
+            caption: |
+              Bustle 12th Floor
+          -
+            image_url: "/img/projects/bustle_12th_floor/11.JPG"
+            caption: |
+              Bustle 12th Floor
+    -
+      id: popup_slideshow_avid_2018
+      title: Avid 2018
+      image_dimensions:
+          max_height: 920
+      slides:
+          -
+            image_url: "/img/projects/avid_2018/1.JPG"
+            caption: |
+              Avid 2018
+          -
+            image_url: "/img/projects/avid_2018/2.JPG"
+            caption: |
+              Avid 2018
+          -
+            image_url: "/img/projects/avid_2018/3.JPG"
+            caption: |
+              Avid 2018
+          -
+            image_url: "/img/projects/avid_2018/4.JPG"
+            caption: |
+              Avid 2018
+          -
+            image_url: "/img/projects/avid_2018/5.JPG"
+            caption: |
+              Avid 2018
+          -
+            image_url: "/img/projects/avid_2018/6.JPG"
+            caption: |
+              Avid 2018
+          -
+            image_url: "/img/projects/avid_2018/7.JPG"
+            caption: |
+              Avid 2018
+          -
+            image_url: "/img/projects/avid_2018/8.JPG"
+            caption: |
+              Avid 2018
+          -
+            image_url: "/img/projects/avid_2018/9.JPG"
+            caption: |
+              Avid 2018
+          -
+            image_url: "/img/projects/avid_2018/10.JPG"
+            caption: |
+              Avid 2018
+          -
+            image_url: "/img/projects/avid_2018/11.JPG"
+            caption: |
+              Avid 2018
+          -
+            image_url: "/img/projects/avid_2018/12.JPG"
+            caption: |
+              Avid 2018
+    -
       id: popup_slideshow_bustle_2
       title: "Bustle 2"
       image_dimensions:
@@ -1412,6 +1516,28 @@ thumbnail_collections:
             width: 390
             height: 330
         thumbnails:
+            -
+                id: project_thumbnail_bustle_12th_floor
+                image: /img/projects/bustle_12th_floor/1.JPG
+                title: |
+                  Commercial Interiors<br />
+                  Lead Designer + PA + PM
+                dimensions:
+                    width: 140
+                    height: 140
+                popup_slideshow:
+                    popup_slideshow_id: "popup_slideshow_bustle_12th_floor"
+            -
+                id: project_thumbnail_avid_2018
+                image: /img/projects/avid_2018/1.JPG
+                title: |
+                  Commercial Interiors<br />
+                  Lead Designer + PM
+                dimensions:
+                    width: 140
+                    height: 140
+                popup_slideshow:
+                    popup_slideshow_id: "popup_slideshow_avid_2018"
             -
                 id: project_thumbnail_bustle_2
                 image: /img/projects/covers/bustle 2.jpg
