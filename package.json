@@ -2,7 +2,7 @@
   "dependencies": {
     "browserify": "12.*",
     "fountain-js": "0.0.1",
-    "jquery": "^2.1.4",
+    "jquery": "3.3.1",
     "timeago": "^1.4.3",
     "uglify-js": "^2.8.29"
   },
