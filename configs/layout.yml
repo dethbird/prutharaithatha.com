@@ -1082,11 +1082,11 @@ popup_slideshow:
           -
             image_url: "/img/projects/saar/1_Saar Restaurant in Midtown Manhattan.jpg"
             caption: |
-              Saar Restaurant
+              Saar Restaurant in Midtown Manhattan
           -
             image_url: "/img/projects/saar/2_Bar Detail.jpg"
             caption: |
-              Saar Restaurant
+              Bar Detail
           -
             image_url: "/img/projects/saar/3_Custom Panel Design.jpg"
             caption: |
@@ -1094,23 +1094,23 @@ popup_slideshow:
           -
             image_url: "/img/projects/saar/4_Saar Restaurant in Mid-town Manhattan.jpg"
             caption: |
-              Saar Restaurant
+              Saar Restaurant in Mid-town Manhattan
           -
             image_url: "/img/projects/saar/5_Custom wall covering.jpg"
             caption: |
-              Saar Restaurant
+              Custom wall covering
           -
             image_url: "/img/projects/saar/6_Essence of Jaipur in a Bistro setting.jpg"
             caption: |
-              Saar Restaurant
+              Essence of Jaipur in a Bistro setting
           -
             image_url: "/img/projects/saar/7_Custom Banquette Seating.jpg"
             caption: |
-              Saar Restaurant
+              Custom Banquette Seating
           -
             image_url: "/img/projects/saar/8_Pink City influences.jpg"
             caption: |
-              Saar Restaurant
+              Pink City influences
           -
             image_url: "/img/projects/saar/9.jpg"
             caption: |
@@ -1118,7 +1118,7 @@ popup_slideshow:
           -
             image_url: "/img/projects/saar/10_Detail of Custom Panel at Bar.jpg"
             caption: |
-              Saar Restaurant
+              Detail of Custom Panel at Bar
     -
       id: popup_slideshow_bustle_2
       title: "Bustle 2"
@@ -1408,24 +1408,6 @@ popup_slideshow:
               <iframe src="https://www.youtube.com/embed/SRTv4K3C4ws" frameborder="0" allowfullscreen></iframe>
             caption: |
               CoreNet Winning Entry model with Floating Hologram Video
-          -
-            image_url: "/img/projects/coronet/18.JPG"
-            caption: |
-          -
-            image_url: "/img/projects/coronet/19.JPG"
-            caption: |
-          -
-            image_url: "/img/projects/coronet/20.JPG"
-            caption: |
-          -
-            image_url: "/img/projects/coronet/21.JPG"
-            caption: |
-          -
-            image_url: "/img/projects/coronet/22.JPG"
-            caption: |
-          -
-            image_url: "/img/projects/coronet/18.JPG"
-            caption: |
           -
             image_url: "/img/projects/coronet/19.JPG"
             caption: |
